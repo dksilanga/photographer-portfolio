@@ -72,7 +72,7 @@ text
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/capture-moments.git
+   git clone https://github.com/dksilanga/photographer-portfolio.git
 Navigate to the project directory:
 
 bash
@@ -114,7 +114,7 @@ Scroll down to GitHub Pages section
 
 Select main branch as source
 
-Your site will be live at: https://your-username.github.io/repository-name
+Your site will be live at: https://dksilanga.io/photographer-portfolio
 
 Netlify
 Drag and drop the project folder to Netlify
